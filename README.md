@@ -47,16 +47,27 @@ The application will be available at `http://localhost:5173`
 ## Project Structure
 
 journal-app/
+
 ├── src/
+
 │ ├── components/
+
 │ │ ├── Entry.jsx
+
 │ │ └── NavBar.jsx
+
 │ ├── assets/
+
 │ ├── App.css
+
 │ ├── App.jsx
+
 │ ├── index.css
+
 │ └── main.jsx
+
 ├── public/
+
 └── package.json
 
 
