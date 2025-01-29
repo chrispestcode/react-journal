@@ -50,19 +50,25 @@ journal-app/
 
 ├── src/
 
+│ ├── assets/
+
 │ ├── components/
 
 │ │ ├── Entry.jsx
 
-│ │ └── NavBar.jsx
+│ │ └── Footer.jsx
 
-│ ├── assets/
+│ │ └── Navbar.css
+
+│ │ └── NavBar.jsx
 
 │ ├── App.css
 
 │ ├── App.jsx
 
 │ ├── index.css
+
+│ └── Journal.jsx
 
 │ └── main.jsx
 
